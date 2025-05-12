@@ -7,8 +7,6 @@ for index in range(10):
 
     numeros[index] = int(input(f"Digite o {index + 1}º número: "))
 
-    menor = index
-
 for index in range(10):
 
     for segundo_index in range(index + 1, 10):
