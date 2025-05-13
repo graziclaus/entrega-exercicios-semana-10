@@ -16,7 +16,6 @@ Teste de Mesa - Exercício 08
 ![image](https://github.com/user-attachments/assets/d219bd6d-2603-4edc-b84b-43bf37a89a71)
 ![image](https://github.com/user-attachments/assets/4ee44fd9-ba52-463f-8fac-e9a45cb62d12)
 
-
 Teste de Mesa - Exercício 09
 
 ![image](https://github.com/user-attachments/assets/ac6a9718-dc82-4860-a401-c542e524e9f8)
@@ -30,3 +29,8 @@ Teste de Mesa - Exercício 11
 ![image](https://github.com/user-attachments/assets/801676e4-f73e-49d7-8e77-697ab6b547bd)
 
 
+Debugs:
+
+Debug - Exercício 08
+
+![Animação](https://github.com/user-attachments/assets/7eedc29c-3080-488e-8bc3-8f00d5b23e94)
