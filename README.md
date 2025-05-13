@@ -1,6 +1,8 @@
 # entrega-exercicios-semana-10
 Entrega - Exercícios Semana 10
 
+--------------------------------------------------------------------------TESTES DE MESA----------------------------------------------------------------------------------
+
 Testes de Mesa:
 
 Teste de Mesa - Exercício 08
@@ -28,9 +30,23 @@ Teste de Mesa - Exercício 11
 
 ![image](https://github.com/user-attachments/assets/801676e4-f73e-49d7-8e77-697ab6b547bd)
 
+--------------------------------------------------------------------------DEBUGS----------------------------------------------------------------------------------
 
 Debugs:
 
 Debug - Exercício 08
 
 ![Animação](https://github.com/user-attachments/assets/7eedc29c-3080-488e-8bc3-8f00d5b23e94)
+
+Debug - Exercício 09
+
+![Animação2](https://github.com/user-attachments/assets/2a32bd3f-e0b2-41e7-b04c-d2060bb3883d)
+
+Debug - Exercício 10
+
+![Animação3](https://github.com/user-attachments/assets/f39de239-f374-44f2-b7dc-8a8a83efeb0d)
+
+Debug - Exercício 11
+
+![Animação4](https://github.com/user-attachments/assets/1113dc51-3672-4d2a-a35e-57bfdcaf6a3b)
+
